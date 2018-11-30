@@ -1,0 +1,51 @@
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=50265:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\Xufeng\IdeaProjects\Del-me\out\production\Del-me Main
+When you open your eyes, you find yourself in a foyer.
+Inside the foyer is a bench, a chest, an unlit candle, and a note. "The note says, “May my light show you the way.”
+There is a door to the north, but it is locked.
+You have 30 moves to escape
+Good luck!
+
+you have 30 rounds left.
+Please enter your command
+open chest
+There are matches in the chest.
+you have 29 rounds left.
+Please enter your command
+get matches
+You have a box of matches.
+you have 28 rounds left.
+Please enter your command
+light candle
+The candle is lit. You heard a metal grinding sound from the north.
+you have 27 rounds left.
+Please enter your command
+open door
+The north door is open.
+you have 26 rounds left.
+Please enter your command
+go north
+Congratulation! You have left the foyer. On your way out, the door slammed and locked. You now find yourself in a library full of shelves of books. In the center of the room is a desk, which has a pen and a scroll on it. A door is on the north side wall waiting for you to open
+you have 25 rounds left.
+get pen
+You now holding the pen.
+you have 24 rounds left.
+write book
+you now have finished the book with your pen. You are ready to leave
+you have 23 rounds left.
+open door
+The north door is open.
+you have 22 rounds left.
+go north
+Congratulation! You have left the library. On your way out, the door slammed and locked. You are now in the conservatory. You now find yourself in a conservatory having three music instruments:Trumpet, Piano, and Drum. In order to escape, you need to play them in order. Good luck.
+you have 21 rounds left.
+play trumpet
+you have played the trumpet!
+you have 20 rounds left.
+play piano
+you have played the piano
+you have 19 rounds left.
+play drum
+you have played the drum
+
+Congratulations! You have completed the escape room challenge successfully in with 18 moves to spare.
+Process finished with exit code 0
